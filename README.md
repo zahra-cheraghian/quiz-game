@@ -1,5 +1,5 @@
 # quiz-game
-![quiz-game](https://github.com/zahra-cheraghian/quiz-game/assets/155820127/078bdd8f-6b4a-49bf-a095-f3bc0db48335)
+![quiz-game](https://github.com/zahra-cheraghian/quiz-game/assets/155820127/5933ee58-3d87-41cc-9512-5580465cad08)
 - [Demo Project](https://zahra-cheraghian.github.io/quiz-game/)
 - Coded by zahracheraghian
 
