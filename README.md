@@ -1,6 +1,6 @@
 # quiz-game
 
-- [Demo Project]()
+- [Demo Project](https://zahra-cheraghian.github.io/quiz-game/)
 - Coded by zahracheraghian
 
 - Created - 2024
